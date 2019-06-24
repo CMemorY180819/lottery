@@ -1,6 +1,6 @@
 # N年前写的年会抽奖程序
 
-[demo](https://fouber.github.io/lottery/)
+[demo](https://cmemory180819.github.io/lottery/)
 
 
 
