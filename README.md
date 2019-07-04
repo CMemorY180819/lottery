@@ -1,4 +1,4 @@
-# N年前写的年会抽奖程序
+# RUA
 
 [demo](https://cmemory180819.github.io/lottery/)
 
